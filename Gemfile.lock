@@ -2,12 +2,14 @@ GEM
   remote: https://rubygems.org/
   specs:
     json (1.0.0)
+    paypal-sdk-rest (1.7.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   json (= 1.0.0)
+  paypal-sdk-rest (= 1.7.4)
 
 BUNDLED WITH
    1.13.7
